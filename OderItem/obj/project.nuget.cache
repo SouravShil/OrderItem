@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lE2jJ7Qg6yxe9Tn4gooYuX0NpGbm4aReiWP6r9GENt/9chJygyt3DokN4NaMqYzo65yCd7djfbppNImIm7BHQ==",
+  "success": true,
+  "projectFilePath": "D:\\WebApi\\OderItem\\OderItem\\OderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sourav Shil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Sourav Shil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

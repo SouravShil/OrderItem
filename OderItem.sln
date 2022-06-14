@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OderItem", "OderItem\OderItem.csproj", "{B14235ED-A8CC-4FF7-8F9F-26F0F86DD4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14235ED-A8CC-4FF7-8F9F-26F0F86DD4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14235ED-A8CC-4FF7-8F9F-26F0F86DD4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14235ED-A8CC-4FF7-8F9F-26F0F86DD4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14235ED-A8CC-4FF7-8F9F-26F0F86DD4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF9EDD4-692C-4EE0-B4E1-312F60CD95FA}
+	EndGlobalSection
+EndGlobal
